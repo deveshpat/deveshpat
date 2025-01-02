@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on **web scraping, automated video production, and AI-powered web apps**.  
 - 🤔 I’m looking for help with **deploying scalable AI models on cloud-based servers**.  
 - 💬 Ask me about **Python programming, web scraping, YouTube automation, and creating engaging demo videos**.  
-- 📫 How to reach me: **[Your email/contact link]**  
+- 📫 How to reach me: **devesh.patel0922@gmail.com**  
 - 😄 Pronouns: **He/Him**  
 - 🎓 Education: **B.Sc. (Hons.) in Physics from Atma Ram Sanatan Dharma College, University of Delhi**.  
 - ⚡ Fun fact: **I’ve built systems that can automate YouTube channels and extract valuable film and TV data from sources like IMDb and Wikipedia!**  
