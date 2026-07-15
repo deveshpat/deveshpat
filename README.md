@@ -20,7 +20,7 @@ A **Python Developer** familiar with the following frameworks:
 
 ### Projects
 
-- [Web Scraping](https://github.com/deveshpat/QuizSocial) -> In this project I scraped `IMDB` ( for movie/series titles, cast info. ) and `Wikipedia` ( for posters, plots, et al ) for a website called [DumDumSocial](https://m.youtube.com/watch?v=5R3KB1qZehg).
+- [Web Scraping](https://github.com/deveshpat/QuizSocial-Data) -> In this project I scraped `IMDB` ( for movie/series titles, cast info. ) and `Wikipedia` ( for posters, plots, et al ) for a website called [DumDumSocial](https://m.youtube.com/watch?v=5R3KB1qZehg).
 - [Web Automation](https://github.com/deveshpat/Across-The-Web) -> In this project I bootstraped a `AI-driven production system` pipeline for creating/posting videos on YouTube for a channel @ [Across The Web](https://www.youtube.com/@acrosstheweb)
 - [Chatbot Integration](https://github.com/ritesh-patelll/QuizSocial/tree/main/dumdumsocialbot) -> Utilised `Full Stack web application` to integrate a chatbot for the website DumDumSocial as well as a [Telegram Bot](https://github.com/deveshpat/Telegram_bot) variant of the same.
 - [EdgeRunner](https://deveshpat.github.io/EdgeRunner/) -> A `FastAPI` + `Next.js` web app mimicking a Agentic Harness setup.
