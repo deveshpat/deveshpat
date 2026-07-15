@@ -7,14 +7,15 @@ Here are some ideas to get you started:
 
 A **Python Developer** familiar with the following frameworks:
 
-1) `Web Scraping/ Automation Stack`:           - Requests, BeautifulSoup, Selenium
+1) `Web Scraping/ Automation Stack`:
+    - Requests, BeautifulSoup, Selenium
 
-2) `Web Development Stack`:
+4) `Web Development Stack`:
     - Frontend: HTML, CSS, JavaScript
     - Backend: Django, FastAPI
     - Databases: MySQL, PostgeSQL
 
-3) `AI/ML Stack`:
+5) `AI/ML Stack`:
     - PyTorch, HuggingFace
 
 ### Projects
