@@ -13,7 +13,7 @@ A **Python Developer** familiar with the following frameworks:
 4) `Web Development Stack`:
     - Frontend: HTML, CSS, JavaScript
     - Backend: Django, FastAPI
-    - Databases: MySQL, PostgeSQL
+    - Databases: MySQL, PostgreSQL
 
 5) `AI/ML Stack`:
     - PyTorch, HuggingFace
